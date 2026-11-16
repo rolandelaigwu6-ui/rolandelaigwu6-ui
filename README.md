@@ -45,18 +45,6 @@ I enjoy solving problems, exploring backend technologies, and improving my progr
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rolandelaigwu6-ui&show_icons=true&theme=tokyonight" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolandelaigwu6-ui&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
----
-
 ## 🚀 What I'm Currently Learning
 
 - Building RESTful APIs with FastAPI
